@@ -14,8 +14,8 @@ cmap/motifs.py
 cmap/postprocessing.py
 cmap/preprocessing.py
 cmap/regex_trie.py
-cmap.egg-info/PKG-INFO
-cmap.egg-info/SOURCES.txt
-cmap.egg-info/dependency_links.txt
-cmap.egg-info/requires.txt
-cmap.egg-info/top_level.txt
+cmap_tool.egg-info/PKG-INFO
+cmap_tool.egg-info/SOURCES.txt
+cmap_tool.egg-info/dependency_links.txt
+cmap_tool.egg-info/requires.txt
+cmap_tool.egg-info/top_level.txt

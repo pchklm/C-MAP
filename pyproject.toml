@@ -3,7 +3,7 @@ requires = ["setuptools>=61.0", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "cmap"
+name = "cmap-tool"
 version = "1.0"
 description = "C-MAP: Cleavage Motif Analysis Pipeline"
 authors = [
