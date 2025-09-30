@@ -1,0 +1,33 @@
+Metadata-Version: 2.4
+Name: cmap
+Version: 1.0
+Summary: C-MAP: Cleavage Motif Analysis Pipeline
+Author: Philipp Caspar Hendel
+License: MIT
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: anyio==4.11.0
+Requires-Dist: bio==1.8.0
+Requires-Dist: biopython==1.85
+Requires-Dist: biothings-client==0.4.1
+Requires-Dist: click==8.3.0
+Requires-Dist: gprofiler-official==1.0.0
+Requires-Dist: logomaker==0.8.7
+Requires-Dist: matplotlib==3.10.6
+Requires-Dist: mygene==3.2.2
+Requires-Dist: mysql-connector-python==9.4.0
+Requires-Dist: numpy==2.3.3
+Requires-Dist: pandas==2.3.3
+Requires-Dist: pyarrow==21.0.0
+Requires-Dist: requests==2.32.5
+Requires-Dist: scipy==1.16.2
+Requires-Dist: tqdm==4.67.1
+Dynamic: license-file
+
+### C-MAP: a flexible tool for cleavage enrichment analysis
+
+C-MAP is released under the MIT License.
+The MEROPS database, used by C-MAP, is distributed under the GNU Library General Public License (LGPL). Users of C-MAP must also comply with the terms of the MEROPS license when redistributing or modifying database content.
+
+### Usage
+All Information about usage can be found in the thesis.
