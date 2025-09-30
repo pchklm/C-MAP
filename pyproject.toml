@@ -1,0 +1,31 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cmap"
+version = "1.0"
+description = "C-MAP: Cleavage Motif Analysis Pipeline"
+authors = [
+  { name="Philipp Caspar Hendel" }
+]
+readme = "README.md"
+license = { text = "MIT" }
+dependencies = [
+    "anyio==4.11.0",
+    "bio==1.8.0",
+    "biopython==1.85",
+    "biothings-client==0.4.1",
+    "click==8.3.0",
+    "gprofiler-official==1.0.0",
+    "logomaker==0.8.7",
+    "matplotlib==3.10.6",
+    "mygene==3.2.2",
+    "mysql-connector-python==9.4.0",
+    "numpy==2.3.3",
+    "pandas==2.3.3",
+    "pyarrow==21.0.0",
+    "requests==2.32.5",
+    "scipy==1.16.2",
+    "tqdm==4.67.1",
+]
