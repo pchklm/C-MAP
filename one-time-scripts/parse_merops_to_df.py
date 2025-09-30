@@ -5,8 +5,8 @@ from ..helper import convert_3to1
 
 conn = mysql.connector.connect(
         host="localhost",
-        user="cleavage_user",
-        password="ILOVEJOSIE",
+        user="merops",
+        password="",
         database="merops"
     )
 
